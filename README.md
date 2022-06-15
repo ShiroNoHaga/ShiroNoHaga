@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ShiroNoHaga
+- 👀 I’m interested in Telegram related things, back-end related.
+- 🌱 I’m currently learning python frameworks.
+- 💞 I’m looking to collaborate on Python high-paid projects
+- 📫 How to reach me: [telegram](https://t.me/shironohaga)
